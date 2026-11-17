@@ -1,2 +1,0 @@
-# MiniTest
-First App
